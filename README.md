@@ -2,7 +2,7 @@
 
 ## Overview
 This repository showcases my work on the **PwC Power BI Job Simulation** project, which I completed as part of my learning journey in data analytics. The simulation involved creating insightful dashboards and reports based on real-world scenarios, with a focus on:  
-1. **Call Center Trends** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQ3YWI4NDUtZGM4NC00YjM0LTkxYzMtMDVjYjMwOGJkN2NkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+1. **Call Centre Trends** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQ3YWI4NDUtZGM4NC00YjM0LTkxYzMtMDVjYjMwOGJkN2NkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 2. **Customer Retention** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjE3MTdlODYtMGI2Yi00OTMyLTg2YTUtZDU3OTUwMGY2MTViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 3. **Diversity & Inclusion Analysis** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDdjZjkxMGYtOWUyZi00Yjk2LWJmYTUtNDY4YTNkMDBjOTk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
@@ -11,7 +11,7 @@ Through this project, I developed a deeper understanding of data visualization, 
 ---
 
 ## Key Highlights
-### 1. **Call Center Trends**
+### 1. **Call Centre Trends**
 - Analyzed metrics like **Overall Calls Answered**, **Abandonment Rates**, and **Agent Performance**.
 - Built a dashboard to monitor customer satisfaction and average handling time trends.
 
@@ -41,12 +41,7 @@ Through this project, I developed a deeper understanding of data visualization, 
 ---
 
 ## Certificate of Completion
-![PwC Certificate](certificate.png)
-
----
-
-## About Me
-I am a passionate data analyst with expertise in Power BI, Excel, and SQL. This project is part of my journey to transition into a professional data analytics role. Feel free to connect with me or explore my other projects on [GitHub](https://github.com/Adhane).
+![PwC Certificate]("C:\Users\anike\OneDrive\Pictures\Screenshots\PwC Power BI Job Simulation Certificate.png")
 
 ---
 
