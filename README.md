@@ -2,9 +2,9 @@
 
 ## Overview
 This repository showcases my work on the **PwC Power BI Job Simulation** project, which I completed as part of my learning journey in data analytics. The simulation involved creating insightful dashboards and reports based on real-world scenarios, with a focus on:  
-1. **Call Center Trends**  
+1. **Call Center Trends** 
 2. **Customer Retention**  
-3. **Diversity & Inclusion Analysis**
+3. **Diversity & Inclusion Analysis**(https://app.powerbi.com/view?r=eyJrIjoiMDdjZjkxMGYtOWUyZi00Yjk2LWJmYTUtNDY4YTNkMDBjOTk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
 Through this project, I developed a deeper understanding of data visualization, reporting, and how to derive actionable insights using Power BI.
 
