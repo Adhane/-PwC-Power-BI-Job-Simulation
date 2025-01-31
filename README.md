@@ -41,7 +41,7 @@ Through this project, I developed a deeper understanding of data visualization, 
 ---
 
 ## Certificate of Completion
-![PwC Certificate]("C:\Users\anike\OneDrive\Pictures\Screenshots\PwC Power BI Job Simulation Certificate.png")
+![PwC Certificate]("PwC Power BI Job Simulation Certificate.png")
 
 ---
 
