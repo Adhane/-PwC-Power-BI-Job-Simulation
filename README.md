@@ -39,7 +39,7 @@ Through this project, I developed a deeper understanding of data visualization, 
 
 ## Repository Structure
 📂 **Dashboards/** – Contains Power BI `.pbix` files (if permissible).  
-📂 **Insights & Recommendations/** – Markdown and  reports summarizing findings(available in power bi dashboard pages.  
+📂 **Insights & Recommendations/** – Markdown and  reports summarizing findings (available in power bi dashboard pages)
 📂 **Datasets/** – Sample datasets used for the simulation (if available).  
 
 ---
