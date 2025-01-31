@@ -41,7 +41,7 @@ Through this project, I developed a deeper understanding of data visualization, 
 ---
 
 ## Certificate of Completion
-![PwC Certificate]("PwC Power BI Job Simulation Certificate.png")
+![PwC Certificate](https://github.com/Adhane/-PwC-Power-BI-Job-Simulation/blob/main/PwC%20Power%20BI%20Job%20Simulation%20Certificate.png)
 
 ---
 
